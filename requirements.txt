@@ -1,0 +1,6 @@
+numpy==1.24.4
+pandas==2.1.4
+matplotlib==3.7.4
+tensorflow==version
+tensorflow-datasets==4.9.4
+tqdm==4.66.1
